@@ -921,6 +921,7 @@ changelog = {
             '- Jackherer (French translations)',
             '- UnicornNoob (Russian translations)',
         },
+    },
     {
         version = 3682,
         name = 'Game Version 3682',
